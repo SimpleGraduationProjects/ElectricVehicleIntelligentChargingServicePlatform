@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/微信小程序-3.x-yellow.svg"/>
 </p>
 
+演示视频: [https://www.bilibili.com/video/BV1z1kYYzEz6/](https://www.bilibili.com/video/BV1z1kYYzEz6/)
 
 ## 简介
 
