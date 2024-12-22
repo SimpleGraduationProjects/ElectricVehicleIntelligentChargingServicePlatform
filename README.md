@@ -1,0 +1,2 @@
+# ElectricVehicleIntelligentChargingServicePlatform
+电动车智能充电服务平台微信小程序
